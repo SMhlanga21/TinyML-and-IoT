@@ -1,0 +1,5 @@
+def first_file(num):
+    new_num = num*num
+    print(new_num)
+
+first_file(12)
